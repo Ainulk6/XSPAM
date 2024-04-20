@@ -12,8 +12,8 @@ HELP_BUTTON = [
         Button.inline("ᴇxᴛʀᴀ", data="extra")
     ],
     [
-        Button.url("ᴜᴘᴅᴀᴛᴇ", "https://t.me/roy_editx"),
-        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/the_friendz")
+        Button.url("ᴜᴘᴅᴀᴛᴇ", "https://t.me/max_dev_server"),
+        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/max_dev_server")
     ]
 ]
 
@@ -23,7 +23,7 @@ async def help(event):
     try:
         await event.client.send_file(
             event.chat_id,
-            "https://graph.org/file/cacbdddee77784d9ed2b7.jpg",
+            "https://graph.org/file/510dcc2c9419427583754.jpg",
             caption=HELP_STRING,
             buttons=HELP_BUTTON
         )
