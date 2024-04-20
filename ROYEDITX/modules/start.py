@@ -5,11 +5,11 @@ from config import X1
 
 START_BUTTON = [
     [
-        Button.url("ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ", "https://t.me/avishaxbot?startgroup=true")
+        Button.url("ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ", "https://t.me/Mr_Kamina_bot?startgroup=true")
     ],
     [
-        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/the_friendz"),
-        Button.url("ʀᴇᴘᴏ", "https://github.com/tinaarobot/XSPAM")
+        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/max_dev_server"),
+        Button.url("update", "https://t.me/max_dev_server")
     ],
     [
         Button.inline("ʜᴇʟᴘ ᴄᴏᴍᴍᴀɴᴅs", data="help_back")
