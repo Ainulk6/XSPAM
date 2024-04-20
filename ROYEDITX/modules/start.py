@@ -30,7 +30,7 @@ async def start(event):
         TEXT += f"❖ **ᴛʜɪs ɪs ᴍᴏsᴛ ᴘᴏᴡᴇʀғᴜʟʟ xsᴘᴀᴍ ʙᴏᴛ ғᴏʀ ɴᴏɴ sᴛᴏᴘ sᴘᴀᴍᴍɪɴɢ.**"
         await event.client.send_file(
                     event.chat_id,
-                    "https://graph.org/file/9d0cc6a4aaa021b546323.jpg",
+                    "https://graph.org/file/fd750336f936b20115d85.jpg",
                     caption=TEXT, 
                     buttons=START_BUTTON
       )
