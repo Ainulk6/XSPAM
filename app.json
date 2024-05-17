@@ -22,7 +22,7 @@
       },
       "OWNER_ID": {
         "description": "Owner Id",
-        "value": "",
+        "value": "6885400504",
         "required": true
       },
       "HEROKU_API_KEY": {
